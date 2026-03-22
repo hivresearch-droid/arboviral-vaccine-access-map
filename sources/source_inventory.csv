@@ -1,0 +1,73 @@
+ID,Title,Role,URL,Access_date
+S001,Australian Government chikungunya information page,Australia CHIKV imported-only context,https://www.health.gov.au/diseases/chikungunya-virus-infection,19/3/2026
+S002,Australian Government dengue information page,Australia DENV local-outbreak context,https://www.health.gov.au/diseases/dengue-virus-infection,19/3/2026
+S003,Australian Government Department of Health,Australia: Current JEV risk and vaccine guidance,https://www.health.gov.au/diseases/japanese-encephalitis,19/3/2026
+S004,Australian Immunisation Handbook,Australia: National JE vaccine guidance,https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/japanese-encephalitis,19/3/2026
+S005,Communicable Diseases Intelligence article on Japanese encephalitis in Australia,Australia JEV circulation/supporting context,https://www1.health.gov.au/internet/main/publishing.nsf/Content/A005BA6FD1F9ACD4CA258BFC0001FE0A/%24File/cdi-2025-49-005.pdf,19/3/2026
+S006,Communicable Diseases Intelligence report on dengue in Australia,Australia DENV local transmission context,https://www1.health.gov.au/internet/main/publishing.nsf/Content/CA1DBF11D71F5F3ECA258ADE0019B036/%24File/cdi-2024-48-63.docx,19/3/2026
+S007,Queensland Health dengue outbreaks guidance,Australia DENV local-outbreak context,https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/diseases/mosquito-borne/dengue/dengue-outbreaks,19/3/2026
+S008,ANVISA registration note: Qdenga,Brazil DENV vaccine regulatory approval,https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/novos-medicamentos-e-indicacoes/qdenga-vacina-dengue-1-2-3-e-4-atenuada-novo-registro,19/3/2026
+S009,ANVISA technical note,Brazil: Recent YF surveillance/ports-airports-frontiers context,https://www.gov.br/anvisa/pt-br/assuntos/paf/vigilancia-epidemiologica/alertas-epidemiologicos/vigentes/nota-tecnica-3-2026-febre-amarela,19/3/2026
+S010,Brazil federal government note referencing dengue vaccine manufacturing/access,Brazil public-program / access context,https://www.gov.br/planalto/en/latest-news/2024/05/in-bilateral-forum-with-alckmin-japanese-prime-minister-and-business-leaders-highlight-brazils-economic-potential,19/3/2026
+S011,Brazil Ministry of Health technical note,Brazil: Recent YF epidemiology/vaccination context,https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/estudos-e-notas-informativas/2024/nota-informativa-no-35-2024.pdf,19/3/2026
+S012,CDC Areas at Risk for Chikungunya,Primary traveler-risk/global backbone,https://www.cdc.gov/chikungunya/data-maps/index.html,19/3/2026
+S013,CDC Areas at Risk for Dengue,Primary country risk backbone for DENV circulation,https://www.cdc.gov/dengue/areas-with-risk/index.html,19/3/2026
+S014,CDC current year dengue data,United States: Current local/imported/territorial context,https://www.cdc.gov/dengue/data-research/facts-stats/current-data.html,19/3/2026
+S015,CDC dengue overview,U.S. continental DENV context,https://www.cdc.gov/dengue/index.html,19/3/2026
+S016,CDC dengue vaccine guidance for healthcare providers,Restricted U.S. DENV vaccine access context,https://www.cdc.gov/dengue/hcp/vaccine/index.html,19/3/2026
+S017,CDC dengue vaccine overview,Restricted U.S. DENV vaccine access context,https://www.cdc.gov/dengue/vaccine/index.html,19/3/2026
+S018,CDC HAN 00523: locally acquired dengue cases in the United States,U.S. DENV autochthonous transmission context,https://www.cdc.gov/han/php/notices/han00523.html,19/3/2026
+S019,CDC JE areas at risk by country,Primary JEV endemicity/risk map,https://www.cdc.gov/japanese-encephalitis/data-maps/index.html,19/3/2026
+S020,CDC potential range of Aedes,Vector classification support,https://www.cdc.gov/mosquitoes/php/toolkit/potential-range-of-aedes.html,19/3/2026
+S021,CDC Yellow Book: dengue,General DENV travel and epidemiology context,https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/dengue.html,19/3/2026
+S022,CDC Yellow Book: Japanese encephalitis,JEV travel-risk and vaccine context,https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/japanese-encephalitis.html,19/3/2026
+S023,ECDC Aedes aegypti map (June 2025),Vector classification support,https://www.ecdc.europa.eu/en/publications-data/aedes-aegypti-current-known-distribution-june-2025,19/3/2026
+S024,ECDC Aedes albopictus map (June 2025),Vector classification support,https://www.ecdc.europa.eu/en/publications-data/aedes-albopictus-current-known-distribution-june-2025,19/3/2026
+S025,ECDC chikungunya monthly overview,Monthly countries/territories reporting CHIKV,https://www.ecdc.europa.eu/en/chikungunya-monthly,19/3/2026
+S026,ECDC chikungunya seasonal surveillance,European CHIKV local-transmission context,https://www.ecdc.europa.eu/en/chikungunya-virus-disease/surveillance-and-updates/seasonal-surveillance,19/3/2026
+S027,ECDC dengue monthly overview,Monthly countries/territories reporting dengue,https://www.ecdc.europa.eu/en/dengue-monthly,19/3/2026
+S028,ECDC rapid risk assessment: chikungunya case in Spain without travel history,Spain CHIKV autochthonous transmission context,https://www.ecdc.europa.eu/en/publications-data/rapid-risk-assessment-chikungunya-case-spain-without-travel-history-endemic-areas,19/3/2026
+S029,Historical local transmission in EU/EEA,Autochthonous chikungunya evidence in Europe,https://www.ecdc.europa.eu/en/infectious-disease-topics/chikungunya-virus-disease/surveillance-and-updates/local-transmission-previous-years,19/3/2026
+S030,Historical local transmission in EU/EEA,Autochthonous dengue evidence in Europe,https://www.ecdc.europa.eu/en/all-topics-z/dengue/surveillance-and-disease-data/autochthonous-transmission-dengue-virus-eueea-previous-years,19/3/2026
+S031,EMA EPAR: Ixchiq,EU CHIKV vaccine authorisation,https://www.ema.europa.eu/en/medicines/human/EPAR/ixchiq,19/3/2026
+S032,EMA EPAR: Qdenga,EU DENV vaccine authorisation,https://www.ema.europa.eu/en/medicines/human/EPAR/qdenga,19/3/2026
+S033,Centre for Health Protection statistics,Hong Kong: Imported vs local dengue split,https://www.chp.gov.hk/en/statistics/data/10/26/43/7121.html,19/3/2026
+S034,Hong Kong CHP media update on chikungunya,Hong Kong CHIKV local transmission context,https://www.chp.gov.hk/en/media/116/109845.html,19/3/2026
+S035,"Hong Kong Communicable Diseases Watch, vol 22 no 2",Hong Kong DENV local transmission context,https://www.chp.gov.hk/files/pdf/cdw_v22_2.pdf,19/3/2026
+S036,ISS / EpiCentro arbovirus bulletins,Italy: Recent local transmission adjudication,https://www.epicentro.iss.it/arbovirosi/bollettini,19/3/2026
+S037,ISS / EpiCentro dengue updates,Italy: Recent dengue autochthonous import/local split,https://www.epicentro.iss.it/febbre-dengue/aggiornamenti,19/3/2026
+S038,ISS/EpiCentro chikungunya updates,Italy CHIKV local transmission context,https://www.epicentro.iss.it/chikungunya/aggiornamenti,19/3/2026
+S039,ISS/EpiCentro dengue updates 2025,Italy DENV local transmission context,https://www.epicentro.iss.it/febbre-dengue/2025,19/3/2026
+S040,Japan MHLW 2014 notice (domestic dengue cases),Japan DENV autochthonous transmission context,https://www.mhlw.go.jp/english/new-info/2014.html,19/3/2026
+S041,NIID IASR note on chikungunya/dengue in Japan,Japan CHIKV imported-only context,https://idsc.niid.go.jp/iasr/32/376/tpc376.html,19/3/2026
+S042,PAHO chikungunya analysis by country,Americas country-level supporting evidence,https://www.paho.org/en/arbo-portal/chikungunya-data-and-analysis/chikungunya-analysis-country,19/3/2026
+S043,PAHO chikungunya portal,Americas surveillance anchor,https://www.paho.org/en/arbo-portal/chikungunya-data-and-analysis,19/3/2026
+S044,PAHO dengue analysis by country,Americas country-level supporting evidence,https://www.paho.org/en/arbo-portal/dengue-data-and-analysis/dengue-analysis-country,19/3/2026
+S045,PAHO dengue portal,Americas weekly surveillance anchor,https://www.paho.org/en/arbo-portal/dengue-data-and-analysis,19/3/2026
+S046,PAHO epidemiological alert (10 Feb 2026),Recency check for increasing circulation/resumption,https://www.paho.org/en/documents/epidemiological-alert-chikungunya-10-february-2026,19/3/2026
+S047,PAHO yellow fever epidemiological alert,Americas recent risk context,https://www.paho.org/sites/default/files/2025-03/2025-mar-26-phe-epi-alert-yellow-fever-final_0.pdf,19/3/2026
+S048,PAHO yellow fever epidemiological update,Americas recent cases; explicitly cites country/IHR NFP inputs,https://www.paho.org/sites/default/files/2025-05/2025-april-24-phe-epiupdate-yellow-fever-final.pdf,19/3/2026
+S049,"Kraemer et al., eLife 2015",Vector classification support,https://elifesciences.org/articles/08347,19/3/2026
+S050,Laporta et al. 2023,Vector classification support,https://pubmed.ncbi.nlm.nih.gov/36661976/,19/3/2026
+S051,Tong et al. 2023 Culex tritaeniorhynchus modelling,Vector classification support,https://pmc.ncbi.nlm.nih.gov/articles/PMC10048298/,19/3/2026
+S052,Santé publique France strengthened surveillance bulletin,France: Recent autochthonous transmission adjudication,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/chikungunya/documents/bulletin-national/chikungunya-dengue-zika-et-west-nile-en-france-hexagonale.-bulletin-de-la-surveillance-renforcee-du-5-novembre-2025,19/3/2026
+S053,"Santé publique France strengthened surveillance data (metropolitan France, 2025)",France DENV/CHIKV local transmission context,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/chikungunya/articles/donnees-en-france-metropolitaine/chikungunya-dengue-et-zika-donnees-de-la-surveillance-renforcee-en-france-hexagonale-2025,19/3/2026
+S054,Singapore HSA approval of Dengvaxia,Singapore DENV vaccine approval,https://www.hsa.gov.sg/announcements/news/hsa-approves-dengvaxia-vaccine,19/3/2026
+S055,Singapore MOH: Dengvaxia vaccine available in Singapore,Singapore DENV vaccine availability,https://www.moh.gov.sg/newsroom/dengvaxia-vaccine-available-in-singapore/,19/3/2026
+S056,Takeda announcement: Qdenga approved in Indonesia,Indonesia DENV vaccine approval context,https://www.takeda.com/newsroom/newsreleases/2022/takedas-qdenga-dengue-tetravalent-vaccine-live-attenuated-approved-in-indonesia-for-use-regardless-of-prior-dengue-exposure/,19/3/2026
+S057,Takeda collaboration to accelerate access to dengue vaccine,DENV vaccine market availability context (Argentina/Thailand and broader access),https://www.takeda.com/newsroom/newsreleases/2024/collaboration-to-accelerate-access-to-dengue-vaccine/,19/3/2026
+S058,UK Vaccine Update issue 368 (Jan 2026),UK DENV vaccine availability context,https://www.gov.uk/government/publications/vaccine-update-issue-368-january-2026-maternity-special/vaccine-update-issue-368-january-2026-maternity-special,19/3/2026
+S059,WHO countries at risk of yellow fever transmission,Primary YFV endemic-risk backbone,https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?download=true&sfvrsn=bf42ac59_4,19/3/2026
+S060,WHO Dengue global situation DON,"Global outbreak context, Europe autochthonous evidence",https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON518,19/3/2026
+S061,WHO dengue vaccine position paper,Global benchmark for access/licensure context,https://www.who.int/publications/i/item/who-wer-9918-203-224,19/3/2026
+S062,WHO dengue vaccine prequalification news,Global procurement/availability reference,https://www.who.int/news/item/15-05-2024-who-prequalifies-new-dengue-vaccine,19/3/2026
+S063,WHO Disease Outbreak News / IHR page,Public WHO/IHR-aligned event publication and framework,https://www.who.int/emergencies/disease-outbreak-news,19/3/2026
+S064,WHO DON on chikungunya global situation,Global event context,https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON581,19/3/2026
+S065,WHO Europe update: dengue and West Nile virus,European DENV local-transmission context,https://www.who.int/europe/news-room/events/item/2025/07/17/default-calendar/dengue-and-west-nile-virus--updates-from-the-who-european-region,19/3/2026
+S066,WHO European Region health security bulletin Q3 2025,European DENV local-transmission context,https://cdn.who.int/media/docs/librariesprovider2/euro-health-topics/emergencies-whe/health-security-bulletin--who-european-region---q3-%282%29.pdf?download=true&sfvrsn=153c59d2_5,19/3/2026
+S067,WHO fact sheet,Global endemic-country count and framing,https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis,19/3/2026
+S068,WHO GACVS dengue vaccines page,Brazil/public-program and global DENV vaccine safety context,https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/dengue-vaccines,19/3/2026
+S069,WHO IHR topic page,Documents that DONs are tied to IHR processes/framework,https://www.who.int/health-topics/international-health-regulations,19/3/2026
+S070,WHO position paper,Vaccine policy/access context,https://www.who.int/publications-detail-redirect/japanese-encephalitis-vaccines-who-position-paper,19/3/2026
+S071,WHO Q&A on dengue vaccines,DENV vaccine policy context and current product framing,https://www.who.int/news-room/questions-and-answers/item/dengue-vaccines,19/3/2026
+S072,WHO rapid risk assessment,Global recency and risk framing,https://www.who.int/publications/m/item/who-rapid-risk-assessment---chikungunya-virus--global-v.1,19/3/2026
